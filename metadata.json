@@ -1,0 +1,6 @@
+{
+  "name": "Mr Koffi Portfolio",
+  "description": "Application mobile native de Mr Koffi, graphiste professionnel et formateur. Découvrez son portfolio, ses formations exclusives, son panier et son système de devis et commande interactif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
